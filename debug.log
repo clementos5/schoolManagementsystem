@@ -1,0 +1,497 @@
+INFO 2023-10-29 17:29:42,983 Watching for file changes with StatReloader
+INFO 2023-10-29 17:32:27,284 Watching for file changes with StatReloader
+INFO 2023-10-29 17:32:38,177 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 17:32:51,327 "GET /admin/ HTTP/1.1" 200 6150
+INFO 2023-10-29 17:33:05,507 - Broken pipe from ('127.0.0.1', 61038)
+INFO 2023-10-29 17:33:05,571 "GET /result/view/all HTTP/1.1" 200 14263
+INFO 2023-10-29 17:33:09,218 "GET /result/edit-results/ HTTP/1.1" 200 14668
+INFO 2023-10-29 17:33:09,237 - Broken pipe from ('127.0.0.1', 61039)
+INFO 2023-10-29 17:33:12,708 "GET /result/create/ HTTP/1.1" 200 11613
+INFO 2023-10-29 17:33:12,860 "GET /result/create/ HTTP/1.1" 200 11613
+INFO 2023-10-29 17:33:16,738 "GET /finance/list/ HTTP/1.1" 200 12050
+INFO 2023-10-29 17:33:20,244 "GET /staff/list/ HTTP/1.1" 200 10098
+INFO 2023-10-29 17:33:26,653 "GET /staff/create/ HTTP/1.1" 200 12606
+INFO 2023-10-29 17:33:31,612 "GET /student/list HTTP/1.1" 200 9954
+INFO 2023-10-29 17:33:31,748 "GET /student/list HTTP/1.1" 200 9954
+INFO 2023-10-29 17:33:36,532 "GET /student/list HTTP/1.1" 200 9954
+INFO 2023-10-29 17:33:39,207 "GET /staff/list/ HTTP/1.1" 200 10098
+WARNING 2023-10-29 17:33:45,745 Not Found: /staff
+WARNING 2023-10-29 17:33:45,745 "GET /staff HTTP/1.1" 404 6317
+WARNING 2023-10-29 17:34:02,518 Not Found: /finance
+WARNING 2023-10-29 17:34:02,519 "GET /finance HTTP/1.1" 404 6323
+INFO 2023-10-29 17:43:55,497 Watching for file changes with StatReloader
+INFO 2023-10-29 17:44:03,525 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 17:44:13,981 "GET /admin/ HTTP/1.1" 200 6150
+INFO 2023-10-29 17:44:22,481 "GET /admin/auth/user/add/ HTTP/1.1" 200 10035
+INFO 2023-10-29 17:44:22,698 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 17:44:23,805 "GET /static/admin/css/forms.css HTTP/1.1" 200 9047
+INFO 2023-10-29 17:44:24,093 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 292458
+INFO 2023-10-29 17:44:24,293 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2023-10-29 17:44:24,393 "GET /static/admin/js/core.js HTTP/1.1" 200 5682
+INFO 2023-10-29 17:44:24,397 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 8943
+INFO 2023-10-29 17:44:24,410 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2023-10-29 17:44:24,432 "GET /static/admin/css/widgets.css HTTP/1.1" 200 11900
+INFO 2023-10-29 17:44:24,433 "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+INFO 2023-10-29 17:44:24,478 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2023-10-29 17:44:24,653 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2023-10-29 17:44:24,793 "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2023-10-29 17:44:24,857 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO 2023-10-29 17:44:31,944 "GET /admin/ HTTP/1.1" 200 6150
+INFO 2023-10-29 17:59:14,458 Watching for file changes with StatReloader
+INFO 2023-10-29 17:59:21,769 "GET / HTTP/1.1" 200 9355
+WARNING 2023-10-29 17:59:34,122 Not Found: /staff
+WARNING 2023-10-29 17:59:34,122 "GET /staff HTTP/1.1" 404 6317
+INFO 2023-10-29 17:59:45,934 "GET /admin/ HTTP/1.1" 200 6150
+WARNING 2023-10-29 18:00:10,980 Not Found: /finance
+WARNING 2023-10-29 18:00:10,981 "GET /finance HTTP/1.1" 404 6323
+WARNING 2023-10-29 18:00:30,251 Not Found: /finance
+WARNING 2023-10-29 18:00:30,252 "GET /finance HTTP/1.1" 404 6323
+INFO 2023-10-29 18:00:35,734 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 18:00:38,899 - Broken pipe from ('127.0.0.1', 61160)
+INFO 2023-10-29 18:00:39,063 "GET /finance/list/ HTTP/1.1" 200 12050
+INFO 2023-10-29 18:00:43,277 "GET /finance/create/ HTTP/1.1" 200 13918
+INFO 2023-10-29 18:00:47,254 "GET /student/list HTTP/1.1" 200 9954
+INFO 2023-10-29 18:00:50,474 "GET /result/create/ HTTP/1.1" 200 11613
+INFO 2023-10-29 18:09:25,561 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\school_app\urls.py changed, reloading.
+INFO 2023-10-29 18:09:27,443 Watching for file changes with StatReloader
+INFO 2023-10-29 18:09:33,389 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 18:09:42,738 "GET /admin/ HTTP/1.1" 200 7465
+INFO 2023-10-29 18:10:37,599 "GET /admin/corecode/academicsession/add/ HTTP/1.1" 200 9253
+INFO 2023-10-29 18:10:37,723 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 18:10:53,837 "GET /admin/ HTTP/1.1" 200 7465
+INFO 2023-10-29 18:11:01,600 "GET /admin/corecode/subject/add/ HTTP/1.1" 200 8669
+INFO 2023-10-29 18:11:01,714 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 18:11:15,518 "POST /admin/corecode/subject/add/ HTTP/1.1" 302 0
+INFO 2023-10-29 18:11:15,840 "GET /admin/corecode/subject/ HTTP/1.1" 200 9900
+INFO 2023-10-29 18:11:15,953 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 18:11:16,367 "GET /static/admin/css/changelists.css HTTP/1.1" 200 6566
+INFO 2023-10-29 18:11:16,595 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2023-10-29 18:11:16,605 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2023-10-29 18:11:16,634 "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2023-10-29 18:11:27,086 "GET /admin/corecode/siteconfig/add/ HTTP/1.1" 200 9314
+INFO 2023-10-29 18:11:27,208 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 18:11:49,983 "GET /admin/corecode/ HTTP/1.1" 200 6905
+INFO 2023-10-29 18:11:52,377 "GET /admin/ HTTP/1.1" 200 7756
+INFO 2023-10-29 18:12:01,831 "GET /admin/corecode/ HTTP/1.1" 200 6905
+INFO 2023-10-29 18:12:04,029 "GET /admin/corecode/siteconfig/add/ HTTP/1.1" 200 9314
+INFO 2023-10-29 18:12:05,502 "GET /admin/corecode/subject/ HTTP/1.1" 200 9695
+INFO 2023-10-29 18:12:06,690 "GET /admin/corecode/subject/add/ HTTP/1.1" 200 8669
+INFO 2023-10-29 18:12:08,635 "GET /admin/ HTTP/1.1" 200 7756
+INFO 2023-10-29 18:12:09,902 "GET /admin/corecode/academicsession/add/ HTTP/1.1" 200 9253
+INFO 2023-10-29 18:12:20,206 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 18:12:29,230 "GET /accounts/logout/ HTTP/1.1" 302 0
+INFO 2023-10-29 18:12:29,244 "GET / HTTP/1.1" 302 0
+INFO 2023-10-29 18:12:29,269 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2023-10-29 18:12:43,472 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2023-10-29 18:12:43,511 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 18:13:02,308 "GET /staff/list/ HTTP/1.1" 200 10098
+INFO 2023-10-29 18:13:11,378 "GET /result/view/all HTTP/1.1" 200 14263
+INFO 2023-10-29 18:13:22,008 "GET /accounts/login/?next=/ HTTP/1.1" 200 4076
+INFO 2023-10-29 18:13:33,137 "POST /accounts/login/ HTTP/1.1" 200 4201
+INFO 2023-10-29 18:13:45,862 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2023-10-29 18:13:45,906 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 18:13:49,542 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 18:14:39,192 "GET /finance/list/ HTTP/1.1" 200 12050
+INFO 2023-10-29 18:14:54,414 "GET /accounts/logout/ HTTP/1.1" 302 0
+INFO 2023-10-29 18:14:54,440 "GET / HTTP/1.1" 302 0
+INFO 2023-10-29 18:14:54,472 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2023-10-29 18:15:12,627 "GET / HTTP/1.1" 302 0
+INFO 2023-10-29 18:15:12,654 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+WARNING 2023-10-29 18:15:30,773 Not Found: /accounts
+WARNING 2023-10-29 18:15:30,774 "GET /accounts HTTP/1.1" 404 6220
+INFO 2023-10-29 18:16:04,156 "GET /site-config HTTP/1.1" 302 0
+INFO 2023-10-29 18:16:04,193 "GET /accounts/login/?next=/site-config HTTP/1.1" 200 4000
+INFO 2023-10-29 18:16:21,749 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2023-10-29 18:16:21,825 "GET /site-config HTTP/1.1" 200 10873
+INFO 2023-10-29 18:16:43,904 "POST /site-config HTTP/1.1" 200 10894
+INFO 2023-10-29 18:16:46,215 "POST /site-config HTTP/1.1" 200 10894
+INFO 2023-10-29 18:16:48,447 "POST /site-config HTTP/1.1" 200 10894
+INFO 2023-10-29 18:17:29,074 Watching for file changes with StatReloader
+INFO 2023-10-29 18:17:33,713 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 18:18:39,073 Watching for file changes with StatReloader
+INFO 2023-10-29 18:18:47,252 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 18:19:00,165 "GET /admin/ HTTP/1.1" 200 6393
+INFO 2023-10-29 18:20:02,733 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 18:20:08,606 "GET /admin/ HTTP/1.1" 200 6393
+INFO 2023-10-29 18:20:18,025 "GET /admin/ HTTP/1.1" 200 6393
+INFO 2023-10-29 18:20:59,495 Watching for file changes with StatReloader
+INFO 2023-10-29 18:21:04,682 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 18:21:12,596 "GET /admin/ HTTP/1.1" 200 6393
+INFO 2023-10-29 18:21:33,686 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\school_app\urls.py changed, reloading.
+INFO 2023-10-29 18:21:35,348 Watching for file changes with StatReloader
+INFO 2023-10-29 18:21:45,817 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 18:21:53,741 "GET /admin/ HTTP/1.1" 200 6393
+INFO 2023-10-29 18:22:06,997 "GET /admin/auth/group/add/ HTTP/1.1" 200 14048
+INFO 2023-10-29 18:22:07,147 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 18:22:07,765 "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+INFO 2023-10-29 18:22:07,775 "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 15292
+INFO 2023-10-29 18:22:08,123 "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+INFO 2023-10-29 18:22:08,127 "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+INFO 2023-10-29 18:22:08,129 "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+INFO 2023-10-29 18:22:08,130 "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+INFO 2023-10-29 18:22:12,671 "GET /admin/ HTTP/1.1" 200 6393
+INFO 2023-10-29 18:22:19,472 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 18:22:27,863 "GET /site-config HTTP/1.1" 200 10873
+INFO 2023-10-29 18:23:17,442 Watching for file changes with StatReloader
+INFO 2023-10-29 18:23:26,811 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 18:23:35,829 "GET /admin/ HTTP/1.1" 200 7756
+WARNING 2023-10-29 18:29:26,503 Not Found: /custom-admin/
+WARNING 2023-10-29 18:29:26,504 "GET /custom-admin/ HTTP/1.1" 404 6235
+INFO 2023-10-29 18:34:05,602 "GET /admin/ HTTP/1.1" 200 7756
+INFO 2023-10-29 18:37:14,397 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\apps\corecode\admin.py changed, reloading.
+INFO 2023-10-29 18:37:15,929 Watching for file changes with StatReloader
+INFO 2023-10-29 18:37:22,657 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 18:37:32,435 "GET /admin/ HTTP/1.1" 200 7787
+INFO 2023-10-29 18:38:15,350 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\apps\corecode\admin.py changed, reloading.
+INFO 2023-10-29 18:38:17,245 Watching for file changes with StatReloader
+INFO 2023-10-29 18:38:23,940 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 18:38:36,536 "GET /admin/ HTTP/1.1" 200 7787
+INFO 2023-10-29 19:04:08,296 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\apps\finance\admin.py changed, reloading.
+INFO 2023-10-29 19:04:10,113 Watching for file changes with StatReloader
+INFO 2023-10-29 19:04:12,443 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\apps\finance\admin.py changed, reloading.
+INFO 2023-10-29 19:04:14,358 Watching for file changes with StatReloader
+INFO 2023-10-29 19:08:15,498 Watching for file changes with StatReloader
+INFO 2023-10-29 19:08:21,481 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 19:08:30,972 "GET /admin/ HTTP/1.1" 200 7787
+INFO 2023-10-29 19:16:46,474 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\apps\finance\admin.py changed, reloading.
+INFO 2023-10-29 19:16:46,483 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\apps\finance\admin.py changed, reloading.
+INFO 2023-10-29 19:16:48,600 Watching for file changes with StatReloader
+INFO 2023-10-29 19:16:48,613 Watching for file changes with StatReloader
+INFO 2023-10-29 19:21:33,206 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\apps\finance\admin.py changed, reloading.
+INFO 2023-10-29 19:21:33,230 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\apps\finance\admin.py changed, reloading.
+INFO 2023-10-29 19:21:34,712 Watching for file changes with StatReloader
+INFO 2023-10-29 19:21:34,713 Watching for file changes with StatReloader
+INFO 2023-10-29 19:21:36,797 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\apps\finance\admin.py changed, reloading.
+INFO 2023-10-29 19:21:36,802 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\apps\finance\admin.py changed, reloading.
+INFO 2023-10-29 19:21:39,030 Watching for file changes with StatReloader
+INFO 2023-10-29 19:21:39,070 Watching for file changes with StatReloader
+INFO 2023-10-29 19:21:44,847 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 19:21:53,972 "GET /admin/ HTTP/1.1" 200 7787
+INFO 2023-10-29 19:26:41,715 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\school_app\urls.py changed, reloading.
+INFO 2023-10-29 19:26:41,770 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\school_app\urls.py changed, reloading.
+INFO 2023-10-29 19:26:43,135 Watching for file changes with StatReloader
+INFO 2023-10-29 19:26:43,210 Watching for file changes with StatReloader
+WARNING 2023-10-29 19:26:49,006 Not Found: /
+WARNING 2023-10-29 19:26:49,007 "GET / HTTP/1.1" 404 2601
+INFO 2023-10-29 19:27:03,486 "GET /admin/ HTTP/1.1" 200 7930
+INFO 2023-10-29 19:29:10,368 "GET /admin/finance/invoiceitem/add/ HTTP/1.1" 200 11359
+INFO 2023-10-29 19:29:10,457 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 19:29:10,810 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+INFO 2023-10-29 19:29:31,779 "GET /admin/finance/invoice/add/ HTTP/1.1" 200 25955
+INFO 2023-10-29 19:29:31,894 "GET /static/admin/js/calendar.js HTTP/1.1" 200 8466
+INFO 2023-10-29 19:29:31,899 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+INFO 2023-10-29 19:29:31,924 "GET /static/admin/js/inlines.js HTTP/1.1" 200 15526
+INFO 2023-10-29 19:29:31,935 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 19:29:32,187 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+INFO 2023-10-29 19:29:32,209 "GET /static/admin/img/inline-delete.svg HTTP/1.1" 200 560
+INFO 2023-10-29 19:30:13,433 "GET /admin/finance/receipt/add/ HTTP/1.1" 200 12211
+INFO 2023-10-29 19:30:13,567 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 19:30:22,799 "GET /admin/ HTTP/1.1" 200 7930
+INFO 2023-10-29 19:31:12,291 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\school_app\urls.py changed, reloading.
+INFO 2023-10-29 19:31:12,297 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\school_app\urls.py changed, reloading.
+INFO 2023-10-29 19:31:13,721 Watching for file changes with StatReloader
+INFO 2023-10-29 19:31:13,722 Watching for file changes with StatReloader
+INFO 2023-10-29 19:31:20,014 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 19:31:28,785 "GET /admin/ HTTP/1.1" 200 7930
+INFO 2023-10-29 19:32:04,356 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\school_app\urls.py changed, reloading.
+INFO 2023-10-29 19:32:04,376 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\school_app\urls.py changed, reloading.
+INFO 2023-10-29 19:32:06,853 Watching for file changes with StatReloader
+INFO 2023-10-29 19:32:06,913 Watching for file changes with StatReloader
+INFO 2023-10-29 19:32:12,333 "GET /admin/ HTTP/1.1" 200 7787
+INFO 2023-10-29 19:33:42,388 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 19:33:53,915 "GET /finance/list/ HTTP/1.1" 200 12050
+INFO 2023-10-29 19:33:57,475 "GET /result/create/ HTTP/1.1" 200 11613
+INFO 2023-10-29 19:34:01,048 "GET /result/view/all HTTP/1.1" 200 14263
+INFO 2023-10-29 19:34:04,283 "GET /result/view/all HTTP/1.1" 200 14263
+INFO 2023-10-29 19:34:14,232 "GET /class/list/ HTTP/1.1" 200 12256
+INFO 2023-10-29 19:34:22,890 "GET /student/list HTTP/1.1" 200 9954
+INFO 2023-10-29 19:34:46,232 "GET /admin/ HTTP/1.1" 200 7787
+INFO 2023-10-29 19:34:54,529 "POST /admin/logout/ HTTP/1.1" 302 0
+INFO 2023-10-29 19:34:54,545 "GET / HTTP/1.1" 302 0
+INFO 2023-10-29 19:34:54,572 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2023-10-29 19:35:10,881 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2023-10-29 19:35:10,935 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 19:35:20,315 "GET /finance/list/ HTTP/1.1" 200 12050
+INFO 2023-10-29 19:35:38,973 "GET /accounts/logout/ HTTP/1.1" 302 0
+INFO 2023-10-29 19:35:38,994 "GET / HTTP/1.1" 302 0
+INFO 2023-10-29 19:35:39,019 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2023-10-29 19:35:54,180 "POST /accounts/login/ HTTP/1.1" 200 4114
+INFO 2023-10-29 19:37:22,479 "POST /accounts/login/ HTTP/1.1" 200 4114
+INFO 2023-10-29 19:37:24,556 "POST /accounts/login/ HTTP/1.1" 200 4114
+INFO 2023-10-29 19:38:56,227 "POST /accounts/login/ HTTP/1.1" 200 4114
+INFO 2023-10-29 19:39:08,569 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2023-10-29 19:39:08,605 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 19:39:12,623 "GET /student/list HTTP/1.1" 200 9954
+INFO 2023-10-29 19:39:26,894 "GET /result/create/ HTTP/1.1" 200 11613
+INFO 2023-10-29 19:39:43,137 "GET /admin/ HTTP/1.1" 200 7787
+INFO 2023-10-29 19:40:27,986 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\school_app\urls.py changed, reloading.
+INFO 2023-10-29 19:40:28,369 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\school_app\urls.py changed, reloading.
+INFO 2023-10-29 19:40:29,166 Watching for file changes with StatReloader
+INFO 2023-10-29 19:40:29,581 Watching for file changes with StatReloader
+INFO 2023-10-29 19:40:34,747 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 19:40:43,345 "GET /admin/ HTTP/1.1" 200 7930
+INFO 2023-10-29 19:50:35,837 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\apps\finance\admin.py changed, reloading.
+INFO 2023-10-29 19:50:35,880 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\apps\finance\admin.py changed, reloading.
+INFO 2023-10-29 19:50:37,222 Watching for file changes with StatReloader
+INFO 2023-10-29 19:50:37,251 Watching for file changes with StatReloader
+INFO 2023-10-29 19:56:49,772 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\apps\finance\admin.py changed, reloading.
+INFO 2023-10-29 19:56:49,778 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\apps\finance\admin.py changed, reloading.
+INFO 2023-10-29 19:56:51,051 Watching for file changes with StatReloader
+INFO 2023-10-29 19:56:51,060 Watching for file changes with StatReloader
+INFO 2023-10-29 19:56:54,558 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\apps\finance\admin.py changed, reloading.
+INFO 2023-10-29 19:56:54,565 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\apps\finance\admin.py changed, reloading.
+INFO 2023-10-29 19:56:55,952 Watching for file changes with StatReloader
+INFO 2023-10-29 19:56:55,969 Watching for file changes with StatReloader
+INFO 2023-10-29 19:57:29,084 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\apps\finance\admin.py changed, reloading.
+INFO 2023-10-29 19:57:29,106 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\apps\finance\admin.py changed, reloading.
+INFO 2023-10-29 19:57:30,348 Watching for file changes with StatReloader
+INFO 2023-10-29 19:57:30,414 Watching for file changes with StatReloader
+INFO 2023-10-29 19:57:36,167 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\apps\finance\admin.py changed, reloading.
+INFO 2023-10-29 19:57:37,486 Watching for file changes with StatReloader
+INFO 2023-10-29 19:57:45,990 Watching for file changes with StatReloader
+INFO 2023-10-29 20:05:01,760 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\apps\finance\admin.py changed, reloading.
+INFO 2023-10-29 20:05:01,762 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\apps\finance\admin.py changed, reloading.
+INFO 2023-10-29 20:05:02,949 Watching for file changes with StatReloader
+INFO 2023-10-29 20:05:02,950 Watching for file changes with StatReloader
+INFO 2023-10-29 20:05:11,304 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 20:05:19,822 "GET /admin/ HTTP/1.1" 200 7930
+INFO 2023-10-29 20:06:24,711 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\apps\finance\admin.py changed, reloading.
+INFO 2023-10-29 20:06:25,516 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\apps\finance\admin.py changed, reloading.
+INFO 2023-10-29 20:06:25,967 Watching for file changes with StatReloader
+INFO 2023-10-29 20:06:26,931 Watching for file changes with StatReloader
+INFO 2023-10-29 20:06:39,392 Watching for file changes with StatReloader
+INFO 2023-10-29 20:06:45,147 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 20:06:52,947 "GET /admin/ HTTP/1.1" 200 7930
+INFO 2023-10-29 20:12:49,511 "GET /admin/ HTTP/1.1" 200 7930
+INFO 2023-10-29 20:12:54,269 "GET /admin/ HTTP/1.1" 200 7930
+INFO 2023-10-29 20:12:58,717 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 20:13:05,865 "GET /admin/ HTTP/1.1" 200 7930
+INFO 2023-10-29 20:25:06,782 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\apps\corecode\admin.py changed, reloading.
+INFO 2023-10-29 20:25:06,824 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\apps\corecode\admin.py changed, reloading.
+INFO 2023-10-29 20:25:07,980 Watching for file changes with StatReloader
+INFO 2023-10-29 20:25:08,027 Watching for file changes with StatReloader
+INFO 2023-10-29 20:25:15,903 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 20:25:22,707 "GET /admin/ HTTP/1.1" 200 7930
+INFO 2023-10-29 20:25:57,445 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\school_app\urls.py changed, reloading.
+INFO 2023-10-29 20:25:57,461 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\school_app\urls.py changed, reloading.
+INFO 2023-10-29 20:25:58,610 Watching for file changes with StatReloader
+INFO 2023-10-29 20:25:58,626 Watching for file changes with StatReloader
+INFO 2023-10-29 20:26:03,568 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 20:26:11,393 "GET /admin/ HTTP/1.1" 200 9324
+INFO 2023-10-29 20:30:31,588 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\school_app\urls.py changed, reloading.
+INFO 2023-10-29 20:30:32,757 Watching for file changes with StatReloader
+INFO 2023-10-29 20:30:38,025 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 20:30:50,154 "GET /admin/ HTTP/1.1" 200 7930
+INFO 2023-10-29 20:31:21,838 "GET /admin/ HTTP/1.1" 200 7930
+INFO 2023-10-29 20:31:40,606 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\school_app\urls.py changed, reloading.
+INFO 2023-10-29 20:31:41,873 Watching for file changes with StatReloader
+INFO 2023-10-29 20:31:46,431 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 20:31:53,755 "GET /admin/ HTTP/1.1" 200 9324
+INFO 2023-10-29 20:38:36,726 "GET / HTTP/1.1" 200 9355
+WARNING 2023-10-29 20:38:43,839 Not Found: /ADMIN
+WARNING 2023-10-29 20:38:43,840 "GET /ADMIN HTTP/1.1" 404 6211
+INFO 2023-10-29 20:38:54,043 "GET /admin/ HTTP/1.1" 200 9324
+INFO 2023-10-29 20:56:18,686 Watching for file changes with StatReloader
+INFO 2023-10-29 20:56:25,611 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 20:56:35,230 "GET /admin/ HTTP/1.1" 200 7930
+INFO 2023-10-29 21:08:33,191 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\apps\corecode\admin.py changed, reloading.
+INFO 2023-10-29 21:08:34,358 Watching for file changes with StatReloader
+INFO 2023-10-29 21:08:40,429 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 21:08:47,391 "GET /admin/ HTTP/1.1" 200 7930
+INFO 2023-10-29 21:10:03,794 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\school_app\urls.py changed, reloading.
+INFO 2023-10-29 21:10:04,835 Watching for file changes with StatReloader
+INFO 2023-10-29 21:10:09,495 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 21:10:15,656 "GET /admin/ HTTP/1.1" 200 9322
+INFO 2023-10-29 21:23:56,502 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\school_app\urls.py changed, reloading.
+INFO 2023-10-29 21:23:57,603 Watching for file changes with StatReloader
+INFO 2023-10-29 21:24:45,343 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\apps\corecode\admin.py changed, reloading.
+INFO 2023-10-29 21:24:46,477 Watching for file changes with StatReloader
+INFO 2023-10-29 21:26:54,806 Watching for file changes with StatReloader
+INFO 2023-10-29 21:27:01,804 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 21:27:09,698 "GET /admin/ HTTP/1.1" 200 9324
+INFO 2023-10-29 21:27:45,545 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\school_app\urls.py changed, reloading.
+INFO 2023-10-29 21:27:46,594 Watching for file changes with StatReloader
+INFO 2023-10-29 21:27:52,181 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 21:28:00,467 "GET /admin/ HTTP/1.1" 200 7930
+INFO 2023-10-29 21:33:54,068 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\school_app\settings.py changed, reloading.
+INFO 2023-10-29 21:33:55,023 Watching for file changes with StatReloader
+INFO 2023-10-29 21:33:58,446 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\school_app\settings.py changed, reloading.
+INFO 2023-10-29 21:33:59,389 Watching for file changes with StatReloader
+INFO 2023-10-29 21:34:39,246 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\school_app\settings.py changed, reloading.
+INFO 2023-10-29 21:34:40,103 Watching for file changes with StatReloader
+INFO 2023-10-29 21:34:52,851 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\school_app\settings.py changed, reloading.
+INFO 2023-10-29 21:34:53,697 Watching for file changes with StatReloader
+INFO 2023-10-29 21:35:44,133 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\school_app\settings.py changed, reloading.
+INFO 2023-10-29 21:35:45,082 Watching for file changes with StatReloader
+INFO 2023-10-29 21:36:07,368 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\school_app\settings.py changed, reloading.
+INFO 2023-10-29 21:36:08,395 Watching for file changes with StatReloader
+INFO 2023-10-29 21:36:13,801 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 21:36:21,030 "GET /admin/ HTTP/1.1" 200 9324
+INFO 2023-10-29 21:36:59,941 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\school_app\urls.py changed, reloading.
+INFO 2023-10-29 21:37:01,124 Watching for file changes with StatReloader
+INFO 2023-10-29 21:37:08,697 "GET /admin/ HTTP/1.1" 200 7930
+INFO 2023-10-29 21:37:31,431 "GET /admin/finance/invoiceitem/add/ HTTP/1.1" 200 11359
+INFO 2023-10-29 21:37:31,502 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 21:37:55,712 "GET /admin/ HTTP/1.1" 200 7930
+INFO 2023-10-29 21:39:42,171 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\school_app\urls.py changed, reloading.
+INFO 2023-10-29 21:39:43,222 Watching for file changes with StatReloader
+INFO 2023-10-29 21:46:47,795 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\apps\corecode\urls.py changed, reloading.
+INFO 2023-10-29 21:46:48,862 Watching for file changes with StatReloader
+INFO 2023-10-29 21:46:57,468 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 21:47:06,970 "GET /admin/ HTTP/1.1" 200 7930
+INFO 2023-10-29 21:48:06,728 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\apps\corecode\urls.py changed, reloading.
+INFO 2023-10-29 21:48:08,001 Watching for file changes with StatReloader
+INFO 2023-10-29 21:48:12,984 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 21:48:20,400 "GET /admin/ HTTP/1.1" 200 9324
+INFO 2023-10-29 21:49:37,759 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\apps\corecode\urls.py changed, reloading.
+INFO 2023-10-29 21:49:38,811 Watching for file changes with StatReloader
+INFO 2023-10-29 21:49:43,068 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 21:49:50,795 "GET /admin/ HTTP/1.1" 200 7930
+INFO 2023-10-29 21:54:44,089 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\VERSION 2\Django-School-Management-System\apps\corecode\urls.py changed, reloading.
+INFO 2023-10-29 21:54:47,316 Watching for file changes with StatReloader
+INFO 2023-10-29 22:05:12,225 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 22:05:18,597 "GET /admin/ HTTP/1.1" 200 9324
+INFO 2023-10-29 22:25:31,582 Watching for file changes with StatReloader
+INFO 2023-10-29 22:25:39,189 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 22:25:46,725 "GET /admin/ HTTP/1.1" 200 9323
+INFO 2023-10-29 22:26:38,845 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\vesion 3\VERSION 3\Django-School-Management-System\school_app\urls.py changed, reloading.
+INFO 2023-10-29 22:26:40,840 Watching for file changes with StatReloader
+INFO 2023-10-29 22:26:46,500 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 22:26:54,511 "GET /admin/ HTTP/1.1" 200 7930
+INFO 2023-10-29 22:27:21,958 "GET /admin/finance/invoiceitem/add/ HTTP/1.1" 200 11359
+INFO 2023-10-29 22:27:22,061 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 22:27:48,264 "POST /admin/finance/invoiceitem/add/ HTTP/1.1" 302 0
+INFO 2023-10-29 22:27:48,468 "GET /admin/finance/invoiceitem/ HTTP/1.1" 200 13055
+INFO 2023-10-29 22:27:48,563 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 22:28:06,498 "GET /admin/finance/receipt/add/ HTTP/1.1" 200 12211
+INFO 2023-10-29 22:28:06,660 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 22:28:44,035 "POST /admin/finance/receipt/add/ HTTP/1.1" 302 0
+INFO 2023-10-29 22:28:44,156 "GET /admin/finance/receipt/ HTTP/1.1" 200 12453
+INFO 2023-10-29 22:28:44,264 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 22:28:58,378 "GET /admin/finance/receipt/add/ HTTP/1.1" 200 12211
+INFO 2023-10-29 22:28:58,505 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 22:29:20,031 "POST /admin/finance/receipt/add/ HTTP/1.1" 302 0
+INFO 2023-10-29 22:29:20,109 "GET /admin/finance/receipt/ HTTP/1.1" 200 12840
+INFO 2023-10-29 22:29:20,218 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 22:29:34,573 "GET /admin/finance/receipt/add/ HTTP/1.1" 200 12211
+INFO 2023-10-29 22:29:34,728 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 22:29:40,180 "GET /admin/finance/receipt/ HTTP/1.1" 200 12624
+INFO 2023-10-29 22:29:46,837 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 22:29:56,703 "GET /finance/list/ HTTP/1.1" 200 12059
+INFO 2023-10-29 22:30:28,191 - Broken pipe from ('127.0.0.1', 56673)
+INFO 2023-10-29 22:30:28,239 "GET /finance/receipt/create?invoice=3 HTTP/1.1" 200 10856
+INFO 2023-10-29 22:30:46,888 "POST /finance/receipt/create?invoice=3 HTTP/1.1" 302 0
+INFO 2023-10-29 22:30:47,084 "GET /finance/list/ HTTP/1.1" 200 12059
+WARNING 2023-10-29 22:30:57,018 Not Found: /finance
+WARNING 2023-10-29 22:30:57,019 "GET /finance HTTP/1.1" 404 6323
+INFO 2023-10-29 22:31:00,871 "GET /admin/ HTTP/1.1" 200 8846
+INFO 2023-10-29 22:31:13,315 "GET /admin/finance/receipt/ HTTP/1.1" 200 13014
+INFO 2023-10-29 22:31:13,468 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 22:32:51,080 "GET /admin/finance/receipt/add/ HTTP/1.1" 200 12211
+INFO 2023-10-29 22:32:51,215 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 22:33:07,357 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\vesion 3\VERSION 3\Django-School-Management-System\school_app\urls.py changed, reloading.
+INFO 2023-10-29 22:33:10,056 Watching for file changes with StatReloader
+INFO 2023-10-29 22:33:16,046 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 22:33:23,215 "GET /admin/ HTTP/1.1" 200 10239
+INFO 2023-10-29 22:33:29,599 "GET /admin/finance/receipt/ HTTP/1.1" 200 11796
+INFO 2023-10-29 22:33:29,725 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 22:34:12,496 "GET /admin/corecode/academicterm/ HTTP/1.1" 200 10716
+INFO 2023-10-29 22:34:12,604 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 22:34:20,248 "GET /admin/corecode/academicterm/add/ HTTP/1.1" 200 10395
+INFO 2023-10-29 22:34:20,396 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 22:34:33,992 "GET /admin/corecode/siteconfig/ HTTP/1.1" 200 10706
+INFO 2023-10-29 22:34:34,122 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 22:34:37,209 "GET /admin/corecode/academicsession/ HTTP/1.1" 200 10755
+INFO 2023-10-29 22:34:37,339 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 22:34:47,700 "GET /admin/corecode/academicsession/add/ HTTP/1.1" 200 10420
+INFO 2023-10-29 22:34:47,806 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 22:34:52,579 "GET /admin/corecode/subject/ HTTP/1.1" 200 10862
+INFO 2023-10-29 22:34:52,691 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 22:35:05,682 "GET /admin/finance/receipt/add/ HTTP/1.1" 200 13205
+INFO 2023-10-29 22:35:05,799 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 22:35:21,741 "GET /static/admin/img/calendar-icons.svg HTTP/1.1" 200 1094
+INFO 2023-10-29 22:35:31,221 "POST /admin/finance/receipt/add/ HTTP/1.1" 302 0
+INFO 2023-10-29 22:35:31,331 "GET /admin/finance/receipt/ HTTP/1.1" 200 12235
+INFO 2023-10-29 22:35:31,507 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 22:35:49,660 "GET /admin/finance/receipt/9/change/ HTTP/1.1" 200 13464
+INFO 2023-10-29 22:35:49,770 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 22:36:02,876 "GET /admin/finance/invoice/add/?_to_field=id&_popup=1 HTTP/1.1" 200 11556
+INFO 2023-10-29 22:36:02,941 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 22:36:22,890 "GET /admin/corecode/studentclass/add/ HTTP/1.1" 200 9849
+INFO 2023-10-29 22:36:23,046 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 22:36:23,680 "GET /admin/corecode/studentclass/add/ HTTP/1.1" 200 9849
+INFO 2023-10-29 22:36:23,774 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 22:36:37,709 "POST /admin/corecode/studentclass/add/ HTTP/1.1" 302 0
+INFO 2023-10-29 22:36:37,826 "GET /admin/corecode/studentclass/ HTTP/1.1" 200 11494
+INFO 2023-10-29 22:36:37,934 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 22:36:44,327 - Broken pipe from ('127.0.0.1', 56702)
+INFO 2023-10-29 22:36:44,402 "GET /admin/corecode/studentclass/6/change/ HTTP/1.1" 200 10068
+INFO 2023-10-29 22:36:44,510 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 22:36:53,266 "GET /admin/corecode/studentclass/6/history/ HTTP/1.1" 200 8314
+INFO 2023-10-29 22:37:06,100 "GET /admin/corecode/studentclass/add/ HTTP/1.1" 200 9849
+INFO 2023-10-29 22:37:06,325 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 22:37:08,714 "GET /admin/corecode/academicterm/add/ HTTP/1.1" 200 10395
+INFO 2023-10-29 22:37:08,888 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 22:37:14,082 "GET /admin/corecode/ HTTP/1.1" 200 6935
+INFO 2023-10-29 22:37:30,791 "GET /admin/ HTTP/1.1" 200 10829
+INFO 2023-10-29 22:37:46,022 "GET /admin/finance/receipt/ HTTP/1.1" 200 12019
+INFO 2023-10-29 22:37:46,240 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 22:39:59,199 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 22:40:03,148 "GET /staff/list/ HTTP/1.1" 200 10098
+INFO 2023-10-29 22:40:08,339 "GET /student/list HTTP/1.1" 200 9954
+INFO 2023-10-29 22:40:23,935 "GET /admin/ HTTP/1.1" 200 10829
+INFO 2023-10-29 22:40:55,637 "GET /admin/finance/invoiceitem/add/ HTTP/1.1" 200 12353
+INFO 2023-10-29 22:40:55,760 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 22:41:05,166 "POST /admin/finance/invoiceitem/add/ HTTP/1.1" 200 12629
+INFO 2023-10-29 22:41:05,272 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 22:41:13,070 "GET /admin/finance/invoiceitem/ HTTP/1.1" 200 12107
+INFO 2023-10-29 22:41:13,174 "GET /admin/finance/invoiceitem/ HTTP/1.1" 200 12107
+INFO 2023-10-29 22:41:13,270 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 22:41:29,516 "GET /admin/finance/invoiceitem/9/change/ HTTP/1.1" 200 12640
+INFO 2023-10-29 22:41:29,631 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 22:43:11,661 "GET /admin/ HTTP/1.1" 200 10829
+INFO 2023-10-29 22:43:18,226 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 22:43:34,118 "GET /admin/ HTTP/1.1" 200 10829
+INFO 2023-10-29 22:44:00,445 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\vesion 3\VERSION 3\Django-School-Management-System\school_app\urls.py changed, reloading.
+INFO 2023-10-29 22:44:02,983 Watching for file changes with StatReloader
+INFO 2023-10-29 22:44:08,389 "GET /admin/ HTTP/1.1" 200 9383
+INFO 2023-10-29 22:44:13,248 "GET /admin/finance/invoice/add/ HTTP/1.1" 200 25989
+INFO 2023-10-29 22:44:13,355 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 22:45:28,721 "GET /admin/auth/ HTTP/1.1" 200 5576
+INFO 2023-10-29 22:45:36,869 "GET /admin/finance/invoice/add/ HTTP/1.1" 200 25989
+INFO 2023-10-29 22:56:02,586 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\vesion 3\VERSION 3\Django-School-Management-System\apps\finance\admin.py changed, reloading.
+INFO 2023-10-29 22:56:04,325 Watching for file changes with StatReloader
+INFO 2023-10-29 22:56:06,874 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\vesion 3\VERSION 3\Django-School-Management-System\apps\finance\admin.py changed, reloading.
+INFO 2023-10-29 22:56:08,810 Watching for file changes with StatReloader
+INFO 2023-10-29 22:57:43,937 Watching for file changes with StatReloader
+INFO 2023-10-29 22:59:13,116 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\vesion 3\VERSION 3\Django-School-Management-System\apps\finance\admin.py changed, reloading.
+INFO 2023-10-29 22:59:14,639 Watching for file changes with StatReloader
+INFO 2023-10-29 22:59:17,869 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\vesion 3\VERSION 3\Django-School-Management-System\apps\finance\admin.py changed, reloading.
+INFO 2023-10-29 22:59:19,637 Watching for file changes with StatReloader
+INFO 2023-10-29 22:59:36,428 Watching for file changes with StatReloader
+INFO 2023-10-29 22:59:43,750 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 22:59:51,997 "GET /admin/ HTTP/1.1" 200 10829
+INFO 2023-10-29 23:00:26,218 "GET /admin/finance/invoiceitem/add/ HTTP/1.1" 200 12353
+INFO 2023-10-29 23:00:26,353 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 23:00:33,832 "GET /admin/finance/invoice/add/ HTTP/1.1" 200 17016
+INFO 2023-10-29 23:00:33,922 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 23:00:38,888 "GET /admin/finance/receipt/add/ HTTP/1.1" 200 13205
+INFO 2023-10-29 23:00:39,034 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 23:00:42,148 "GET /admin/finance/invoiceitem/add/ HTTP/1.1" 200 12353
+INFO 2023-10-29 23:00:42,277 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 23:00:49,040 "GET /admin/corecode/subject/add/ HTTP/1.1" 200 9836
+INFO 2023-10-29 23:00:49,134 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 23:00:54,072 "GET /admin/corecode/academicsession/add/ HTTP/1.1" 200 10420
+INFO 2023-10-29 23:00:54,209 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 23:00:59,797 "GET /admin/corecode/studentclass/add/ HTTP/1.1" 200 9849
+INFO 2023-10-29 23:00:59,933 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 23:01:03,940 "GET /admin/finance/invoiceitem/add/ HTTP/1.1" 200 12353
+INFO 2023-10-29 23:01:04,047 "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2023-10-29 23:01:40,188 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\vesion 3\VERSION 3\Django-School-Management-System\school_app\urls.py changed, reloading.
+INFO 2023-10-29 23:01:41,810 Watching for file changes with StatReloader
+INFO 2023-10-29 23:01:51,688 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 23:01:58,682 "GET /admin/ HTTP/1.1" 200 10829
+INFO 2023-10-29 23:02:16,215 C:\Users\RAK\Desktop\MODULE 12  ADVANCED DATA MINING DSM1234\KUNDAN PROJECT\vesion 3\VERSION 3\Django-School-Management-System\school_app\urls.py changed, reloading.
+INFO 2023-10-29 23:02:18,157 Watching for file changes with StatReloader
+INFO 2023-10-29 23:02:24,242 "GET / HTTP/1.1" 200 9355
+INFO 2023-10-29 23:02:31,639 "GET /admin/ HTTP/1.1" 200 10829
